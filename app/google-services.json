@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "493943492244",
+    "firebase_url": "https://basefire-867f3-default-rtdb.firebaseio.com",
+    "project_id": "basefire-867f3",
+    "storage_bucket": "basefire-867f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493943492244:android:cea20c8b71d5a836a5ee81",
+        "android_client_info": {
+          "package_name": "mx.edu.utng.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493943492244-e484n4pvfctt5m97h3i9fed6hc439tej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClS-SHhObKN2RI0AYfsioG11qJRFd2bRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493943492244-e484n4pvfctt5m97h3i9fed6hc439tej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
